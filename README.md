@@ -13,7 +13,7 @@ https://reliber-lp.netlify.app/
 
 ## 工夫した点
 - 情報量を整理したシンプルなLP構成
-- Flexbox / Grid を使ったレイアウト設計
+- Flexbox 
 - スマートフォン表示を意識したレスポンシブ対応
 
 ## 使用技術
